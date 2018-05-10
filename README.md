@@ -1,4 +1,4 @@
-# Theinfluence of News to Exchange Rate
+# The influence of News to Exchange Rate
 
 
 Mengxuan Zhang mz2657
